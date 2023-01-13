@@ -19,3 +19,4 @@ To develop this application, I used the C# WPF Framework, which on the one hand 
 Despite having less than a week to carry out this project, I really enjoyed developing this project, since it was practically everything new that I picked up. I hope the team takes this unfinished project and ends up using the base structure I developed.
 
 
+![alt text](1.png)
