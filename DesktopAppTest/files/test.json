@@ -1,0 +1,29 @@
+[
+
+  {
+    "Id": 1,
+    "Course_Name": "Software Development",
+    "Modality": "Presencial"
+  },
+  {
+    "Id": 2,
+    "Course_Name": "Web & Mobile Development",
+    "Modality": "Hibrido"
+  },
+  {
+    "Id": 3,
+    "Course_Name": "Multimédia",
+    "Modality": "Presencial"
+  },
+  {
+    "Id": 4,
+    "Course_Name": "Marketing Digital",
+    "Modality": "Online"
+  },
+  {
+    "Id": 5,
+    "Course_Name": "Curso de Florista",
+    "Modality": "Presencial"
+  }
+  
+]
