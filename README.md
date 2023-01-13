@@ -16,6 +16,6 @@ When clicking on a course name/item, it will ask where the user wants to save th
 
 To develop this application, I used the C# WPF Framework, which on the one hand seems to be something much less user-friendly compared to Android Studio.
 
-I really enjoyed developing this project, since it was practically everything new that I picked up. I hope the team takes this unfinished project and ends up using the base structure I developed.
+Despite having less than a week to carry out this project, I really enjoyed developing this project, since it was practically everything new that I picked up. I hope the team takes this unfinished project and ends up using the base structure I developed.
 
 
