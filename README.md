@@ -2,7 +2,7 @@
 
 Developed in C# with WPF Framework - Automation Processes that fills the Excel File from JSON API.
 
-This was one of the projects that was part of my internship.
+This was one of the projects that was part of my internship, as a Software Developer.
 
 Despite not being finished, I learned the basics of a C# language.
 
